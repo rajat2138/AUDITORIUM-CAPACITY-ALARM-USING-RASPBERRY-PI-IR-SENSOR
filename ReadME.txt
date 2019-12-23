@@ -17,3 +17,6 @@
 * You should have the necessary modules or Python Packages
 * You're required to have two IR sensor.
 * Connect One IR sensor with PIN 17 and another with PIN 27
+
+#### Author - Rajat Gupta (email - rajatgupta2138@gmail.com)
+#### Co-Author - Ritesh Ranjan (email - riteshranjan421@gmail.com)
